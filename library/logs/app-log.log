@@ -1,7 +1,0 @@
-2025-11-29 18:58:51,446 INFO o.s.b.StartupInfoLogger [Test worker] Starting DemoApplicationTests using Java 23.0.1 with PID 19968 (started by m_dar in C:\NetBeansProjects\SpringBoot-MultiModules-Starter\library)
-2025-11-29 18:58:51,451 DEBUG o.s.b.StartupInfoLogger [Test worker] Running with Spring Boot v3.4.1, Spring v6.2.1
-2025-11-29 18:58:51,454 INFO o.s.b.SpringApplication [Test worker] No active profile set, falling back to 1 default profile: "default"
-2025-11-29 18:58:52,490 INFO o.s.b.StartupInfoLogger [Test worker] Started DemoApplicationTests in 1.495 seconds (process running for 3.927)
-2025-11-29 18:58:53,650 DEBUG c.e.d.DemoApplicationTests [Test worker] *** SpringBoot Test Context Load 1 ***
-2025-11-29 18:58:53,671 DEBUG c.e.d.DemoApplicationTests [Test worker] *** SpringBoot Test Context Load 2 ***
-2025-11-29 18:58:53,677 DEBUG c.e.d.DemoApplicationTests [Test worker] Message from welcome service is : *** Welcome to first Message from this Module ***
