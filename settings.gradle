@@ -1,4 +1,4 @@
-rootProject.name = 'SpringBootModulesStarterProject'
+rootProject.name = 'SpringBoot-MultiModules-Starter'
 
 include 'library'
 include 'application'
