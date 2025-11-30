@@ -4,7 +4,6 @@ Minimum Spring Boot Multi Module Starter Project with test classes built using g
 ## Technologies Guide
 - Spring Boot 
 - JUnit
-- Log4j2
 - lombok 
 - Gradle
 

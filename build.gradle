@@ -1,6 +1,6 @@
 plugins {
     id 'java'
-    id 'org.springframework.boot' version '3.4.1'
+    id 'org.springframework.boot' version "${springBoot}"
 }
 
 apply plugin: 'io.spring.dependency-management'
@@ -12,8 +12,10 @@ java {
 allprojects {
     group = 'com.example'
     version = '0.0.1-SNAPSHOT'
-    sourceCompatibility = JavaVersion.VERSION_23
-    targetCompatibility = JavaVersion.VERSION_23
+    java {
+        sourceCompatibility = JavaVersion.VERSION_23
+        targetCompatibility = JavaVersion.VERSION_23
+    }
 }
 
 subprojects {
