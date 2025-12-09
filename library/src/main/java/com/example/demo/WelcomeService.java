@@ -9,6 +9,6 @@ public class WelcomeService {
     }
 
     public String getWelcomeMessage() {
-        return "*** Welcome to first Message from this Module ***";
+        return "Welcome Message from this Module";
     }
 }
